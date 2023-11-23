@@ -1,0 +1,122 @@
+﻿@model IEnumerable<ThomazinConstrucoes.Business.Models.Produto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de produtos</h1>
+
+
+<p>
+    <a type="button" asp-action="Create" class="btn btn-primary">Novo produto</a>
+</p>
+
+<table id="example" class="table table-striped" data-bs-theme="dark" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tamanho)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorCusto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorVenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estoque)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Obs)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PathImagem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DhCriacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DhDesativacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdProduto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marca)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tamanho)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorCusto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorVenda)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estoque)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Obs)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PathImagem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codigo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DhCriacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ativo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DhDesativacao)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdProduto" class="btn btn-warning">Editar</a> 
+                    <a asp-action="Details" asp-route-id="@item.IdProduto" class="btn btn-secondary">Detalhes</a> 
+                    <a asp-action="Delete" asp-route-id="@item.IdProduto" class="btn btn-danger">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+
+    <script>
+
+        new DataTable('#example');
+
+       
+       
+    </script>
+}

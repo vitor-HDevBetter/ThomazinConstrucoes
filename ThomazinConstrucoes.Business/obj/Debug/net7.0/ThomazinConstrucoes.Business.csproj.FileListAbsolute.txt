@@ -1,0 +1,14 @@
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\bin\Debug\net7.0\ThomazinConstrucoes.Business.deps.json
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\bin\Debug\net7.0\ThomazinConstrucoes.Business.runtimeconfig.json
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\bin\Debug\net7.0\ThomazinConstrucoes.Business.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\bin\Debug\net7.0\ThomazinConstrucoes.Business.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.csproj.AssemblyReference.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.AssemblyInfoInputs.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.AssemblyInfo.cs
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.csproj.CoreCompileInputs.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\refint\ThomazinConstrucoes.Business.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ThomazinConstrucoes.Business.genruntimeconfig.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Business\obj\Debug\net7.0\ref\ThomazinConstrucoes.Business.dll

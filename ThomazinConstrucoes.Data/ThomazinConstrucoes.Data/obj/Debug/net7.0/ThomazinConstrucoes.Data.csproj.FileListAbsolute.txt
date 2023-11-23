@@ -1,0 +1,17 @@
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\bin\Debug\net7.0\ThomazinConstrucoes.Data.deps.json
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\bin\Debug\net7.0\ThomazinConstrucoes.Data.runtimeconfig.json
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\bin\Debug\net7.0\ThomazinConstrucoes.Data.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\bin\Debug\net7.0\ThomazinConstrucoes.Data.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\bin\Debug\net7.0\ThomazinConstrucoes.Business.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\bin\Debug\net7.0\ThomazinConstrucoes.Business.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.csproj.AssemblyReference.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.AssemblyInfoInputs.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.AssemblyInfo.cs
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.csproj.CoreCompileInputs.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.csproj.CopyComplete
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\refint\ThomazinConstrucoes.Data.dll
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ThomazinConstrucoes.Data.genruntimeconfig.cache
+D:\01 - TODOS OS MEUS ESTUDOS\03 -  Minhas Aplicações\ThomazinConstrucoes\ThomazinConstrucoes\ThomazinConstrucoes.Data\ThomazinConstrucoes.Data\obj\Debug\net7.0\ref\ThomazinConstrucoes.Data.dll

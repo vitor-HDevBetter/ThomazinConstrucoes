@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html lang="pt-BR" class="h-100" data-bs-theme="dark">
+
+<head>
+
+    <meta charset="utf-8">
+    <title>Thomazim Construcoes</title>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css" rel="stylesheet" crossorigin="anonymous">
+
+</head>
+<body class="d-flex h-100 text-center text-bg-dark">
+
+    <div class="container-fluid d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="mb-auto">
+            <div>
+                <h3 class="float-md-start mb-0">Thomazin Construções</h3>
+                <nav class="nav nav-masthead justify-content-center float-md-end ">
+
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="nav-link" asp-area="" asp-controller="Produto" asp-action="Index">Produtos</a>
+
+                </nav>
+
+            </div>
+        </header>
+
+        <div class="container-fluid">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <footer class="mt-auto text-white-50">
+            <p>By VitinhoGiovani</p>
+        </footer>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js" crossorigin="anonymous"></script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
